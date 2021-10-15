@@ -1,0 +1,27 @@
+Key 1,2,3,4 may not work properly with some keys. You will know when it doesn't work
+when the program crashes immediately after starting. Try different ways to type the key.
+(ex. 'Page Up' won't work, instead type 'pgup')
+
+Key 1 (Left):
+a
+
+Key 2 (Down):
+s
+
+Key 3 (Up):
+k
+
+Key 4 (Right):
+l
+
+Color when pressed: 
+(255, 138, 36)
+
+Color when not pressed:
+(0,0,0)
+
+Background color: (You should chroma key this)
+(0,255,0)
+
+
+
